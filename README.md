@@ -3,7 +3,7 @@
 
 HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the visual
 
-# 1.HTML:
+# HTML:
 HTML defines the content of every web page on the Internet.
 by using tags we can structure the web page , the following is an exemple of the must used tags 
 
