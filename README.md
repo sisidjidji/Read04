@@ -5,7 +5,7 @@ HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of
 
 # HTML:
 HTML defines the content of every web page on the Internet.
-by using tags we can structure the web page , the following is an exemple of the must used tags 
+by using tags we can structure the web page , the following are an exemple of the most used tags 
 
 
     <html>
